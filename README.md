@@ -12,4 +12,6 @@ The data Martha and I will be working with is not ideal, so it will need to be p
 
 ## Deliverable 1: Process the Data for PCA
 
-![]()
+![process_PCA]()
+
+## Deliverable 2: Reducing Data Dimensions Using PCA
