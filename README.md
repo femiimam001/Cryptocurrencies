@@ -28,4 +28,4 @@ PCA is a statistical technique to speed up machine learning algorithms when the 
 
 ![D4_visualization](https://github.com/femiimam001/Cryptocurrencies/blob/main/Resources/D4_visualization.PNG)
 
-![crypto_visualization_results]()
+![crypto_visualization_results]https://github.com/femiimam001/Cryptocurrencies/blob/main/Resources/crypto_visualization_results.PNG)
