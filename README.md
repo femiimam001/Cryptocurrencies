@@ -18,4 +18,4 @@ PCA is a statistical technique to speed up machine learning algorithms when the 
 
 ## Deliverable 2: Reducing Data Dimensions Using PCA
 
-![reduction_PCA]()
+![reduction_PCA](https://github.com/femiimam001/Cryptocurrencies/blob/main/Resources/reduction_PCA.PNG)
