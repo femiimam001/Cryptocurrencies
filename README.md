@@ -23,3 +23,7 @@ PCA is a statistical technique to speed up machine learning algorithms when the 
 ## Deliverable 3: Clustering Cryptocurrencies Using K-means
 
 ![clustering_k-means](https://github.com/femiimam001/Cryptocurrencies/blob/main/Resources/clustering_k-means.PNG)
+
+## Deliverable 4: Visualizing Cryptocurrencies Results
+
+![D4_visualization]()
