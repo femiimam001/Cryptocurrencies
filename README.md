@@ -10,8 +10,12 @@ The data Martha and I will be working with is not ideal, so it will need to be p
 
 # Results:
 
+PCA is a statistical technique to speed up machine learning algorithms when the number of input features (or dimensions) is too high. PCA reduces the number of dimensions by transforming a large set of variables into a smaller one that contains most of the information in the original large set.
+
 ## Deliverable 1: Process the Data for PCA
 
 ![process_PCA](https://github.com/femiimam001/Cryptocurrencies/blob/main/Resources/process_PCA.PNG)
 
 ## Deliverable 2: Reducing Data Dimensions Using PCA
+
+![reduction_PCA]()
